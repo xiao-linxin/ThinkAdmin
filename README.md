@@ -1,6 +1,6 @@
 ## 安装
 ```
-clone 
+clone https://github.com/xiao-linxin/ThinkAdmin.git
 ```
 
 ## 配置
